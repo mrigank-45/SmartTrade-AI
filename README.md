@@ -16,6 +16,8 @@
 
 ## 🏗 System Architecture
 
+/Users/mriganksmacbook/Coding/AI/TradingAgents-main/assets/architecture.png
+
 SmartTrade AI operates through five primary "Teams" that simulate a real-world investment firm:
 
 ### 1. The Analyst Team
