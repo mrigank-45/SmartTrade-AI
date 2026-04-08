@@ -16,7 +16,8 @@
 
 ## 🏗 System Architecture
 
-/Users/mriganksmacbook/Coding/AI/TradingAgents-main/assets/architecture.png
+<img width="3470" height="1045" alt="architecture" src="https://github.com/user-attachments/assets/f8626f05-3bbc-4328-8d81-e95265a6c376" />
+
 
 SmartTrade AI operates through five primary "Teams" that simulate a real-world investment firm:
 
@@ -27,11 +28,16 @@ The Analyst Team gathers and analyzes multi-domain market data to provide a holi
 * **News Analysts:** Evaluate news and macroeconomic indicators to predict market movements.
 * **Technical Analysts:** Use technical indicators to forecast price trends and trading opportunities.
 
+<img width="4996" height="704" alt="analyst" src="https://github.com/user-attachments/assets/62e17f27-b726-4c13-bf53-80bb1d7a1f53" />
+
+
 ### 2. The Research Team
 Critically evaluates analyst data through a structured dialectical process:
 * **Bullish Researchers:** Highlight positive market indicators and growth potential.
 * **Bearish Researchers:** Focus on risks and negative market signals.
 * **Research Manager:** Oversees the debate process to ensure a balanced understanding of market conditions, aiding Trader Agents in making informed decisions.
+
+<img width="2528" height="752" alt="researcher" src="https://github.com/user-attachments/assets/27d23814-bb1b-484f-ac9a-4cd6a3592281" />
 
 ### 3. Trader Agent
 Trader Agents execute decisions based on comprehensive analyses. They evaluate insights from analysts and researchers to determine optimal trading actions, balancing returns and risks in a dynamic market environment. Key responsibilities include:
@@ -40,12 +46,16 @@ Trader Agents execute decisions based on comprehensive analyses. They evaluate i
 * Executing buy/sell orders.
 * Adjusting portfolios in response to market changes.
 
+<img width="2528" height="800" alt="trader" src="https://github.com/user-attachments/assets/baa3e5ea-1082-4f19-9c2e-357a5c92b9e1" />
+
 ### 4. Risk Management Team
 Oversees the firm's exposure to market risks, ensuring trading activities stay within predefined limits to safeguard assets. Key responsibilities include:
 * Assessing market volatility and liquidity.
 * Implementing risk mitigation strategies.
 * Advising Trader Agents on risk exposures.
 * Aligning the portfolio with defined risk tolerance.
+
+<img width="2528" height="800" alt="trader" src="https://github.com/user-attachments/assets/c28f88c4-fb7f-4254-8773-bd3408d98de0" />
 
 ### 5. Portfolio Manager
 The Portfolio Manager holds the ultimate authority in the framework, serving as the final gatekeeper for all transactions:
