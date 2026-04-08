@@ -16,7 +16,7 @@
 
 ## 🏗 System Architecture
 
-SmartTrade AI operates through three primary "Teams" that simulate a real-world investment firm:
+SmartTrade AI operates through five primary "Teams" that simulate a real-world investment firm:
 
 ### 1. The Analyst Team
 The Analyst Team gathers and analyzes multi-domain market data to provide a holistic market view:
